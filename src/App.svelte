@@ -16,7 +16,7 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "SOLETTERS NFT — MINT PAGE";
+  const TITLE = "SOLETTERS MINT PAGE";
   const DESCRTIPTION = "The world's FIRST collection of GameFi NFT letters, with DeFi utility!";
   const HEADER_TITLE = "soletters.io";
   const HEADER_LINK = "https://soletters.io";
